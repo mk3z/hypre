@@ -16,6 +16,7 @@ src/TAGS
 hypre/
 cmbuild/
 .vscode
+result
 
 ###############
 # Documentation
